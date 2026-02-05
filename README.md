@@ -1,18 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ziad Wael</h1>
 <h3 align="center">
-Enthusiastic AI Engineering student at Mansoura University (MU) with a passion for learning AI,ML and contributing to technical communities.
-
-Connectors Team: Actively involved in the AI committee, where I have gained valuable experience and knowledge.
-
-Technical Skills Development: Self-motivated learner with a strong foundation in Python acquired through Replit's 100 Days of Code program.
-
-Machine Learning & Data Science: Completed the Mathematics specialization for ML and DS (3 courses) and the ML specialization (3 courses) on Coursera.
-
-Continuous Learning: Currently expanding my skillset by exploring Deep Learning and Graphic Design.
-
-Freelance Skills Development: Learning whiteboard animation explainer techniques to enhance my freelance offerings.
-
-Additional Team Involvement: Contributing member of Dynamix Mansoura (AI and media), Techno Kids MU (Electronics and PR/FR) and Startup Grind (Media Marketing member).
+Aspiring AI Engineer currently studying at Mansoura University, I’m passionate about building intelligent solutions. I lead software at HexaNova and have gained hands-on experience through internships at Huawei ICT Academy, Technoraft, and now DEPI as a Machine Learning Engineering intern. I’m eager to connect with industry professionals, seek advice, and share my journey. If you’re interested in AI, automation, or career growth in tech, let's connect and grow together. Your support and insights mean a lot as I navigate this exciting field.
 </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=engziadai&label=Profile%20views&color=0e75b6&style=flat" alt="engziadai" /> </p>
